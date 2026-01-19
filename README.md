@@ -1,80 +1,60 @@
 # 👋 Olá, eu sou o Rafael
 
-Bem-vindo ao meu repositório principal do GitHub! 🚀  
-Aqui concentro projetos, estudos e experimentos focados **exclusivamente em Rust e Python**.
+Bem-vindo ao meu repositório principal do GitHub! 🚀
+Aqui é onde concentro projetos, estudos e experimentos focados **exclusivamente em Rust e Python**.
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Desenvolvedor focado em **back-end** e **sistemas**
-- 🦀 Entusiasta de **Rust**
-- 🐍 Usuário de **Python** para automações e scripts
-- 📚 Sempre estudando arquitetura, lógica e boas práticas
+* 💻 Desenvolvedor focado em **back-end** e **sistemas**
+* 🦀 Entusiasta de **Rust** (segurança, performance e sistemas robustos)
+* 🐍 Usuário de **Python** para automações, scripts e protótipos
+* 📚 Sempre estudando boas práticas, arquitetura e lógica
 
 ---
 
-## 🛠️ Tecnologias
-
-### 🦀 Rust
-- Sistemas de alto desempenho
-- APIs e back-end
-- Ferramentas CLI
-- Concorrência e segurança de memória
-
-### 🐍 Python
-- Automação
-- Scripts utilitários
-- Prototipagem
-- Estudos
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafasoliv-linux&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rafasoliv-linux&theme=dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafasoliv-linux&theme=github-compact)
-
----
-
-## 📌 Repositórios em destaque
+## 🛠️ Tecnologias que uso
 
 ### 🦀 Rust
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=slown&theme=dark)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=OUTRO_REPO_RUST&theme=dark)
+* Sistemas de alto desempenho
+* APIs e back-end
+* Ferramentas CLI
+* Foco em segurança e concorrência
 
 ### 🐍 Python
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=NOME_DO_REPO_PYTHON&theme=dark)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=OUTRO_REPO_PYTHON&theme=dark)
+* Automação de tarefas
+* Scripts utilitários
+* Prototipagem rápida
+* Lógica e aprendizado
 
 ---
 
-## 📂 O que tem aqui
+## 📂 O que você vai encontrar aqui
 
-- Projetos pessoais
-- Estudos práticos
-- Experimentos
-- Ideias em desenvolvimento
+* Projetos pessoais
+* Estudos práticos
+* Experimentos com Rust e Python
+* Ideias em desenvolvimento
+
+> ⚠️ Alguns projetos podem estar em construção ou em fase de testes.
 
 ---
 
 ## 📈 Objetivo
 
-Criar projetos sólidos, entender sistemas a fundo e evoluir como desenvolvedor a cada repositório.
+Construir projetos sólidos, aprender profundamente como as coisas funcionam por baixo dos panos e evoluir como desenvolvedor a cada repositório.
 
 ---
 
 ## 🤝 Contato
 
-- Email (Proton): rafaeldossantosoliveira@proton.me
+Se quiser trocar ideia, aprender junto ou dar sugestões:
+
+* 📧 Email (Proton): `rafaeldossantosoliveira@proton.me`
 
 ---
 
-⭐ Curtiu algum projeto? Deixa uma estrela.
+⭐ Se algum projeto te ajudar ou chamar atenção, considere deixar uma estrela!
