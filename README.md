@@ -8,13 +8,13 @@ Aqui concentro projetos, estudos e experimentos focados **exclusivamente em Rust
 ## 🧠 Sobre mim
 
 - 💻 Desenvolvedor focado em **back-end** e **sistemas**
-- 🦀 Entusiasta de **Rust** (segurança, performance e sistemas robustos)
-- 🐍 Usuário de **Python** para automações, scripts e protótipos
-- 📚 Sempre estudando boas práticas, arquitetura e lógica
+- 🦀 Entusiasta de **Rust**
+- 🐍 Usuário de **Python** para automações e scripts
+- 📚 Sempre estudando arquitetura, lógica e boas práticas
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias
 
 ### 🦀 Rust
 - Sistemas de alto desempenho
@@ -23,56 +23,51 @@ Aqui concentro projetos, estudos e experimentos focados **exclusivamente em Rust
 - Concorrência e segurança de memória
 
 ### 🐍 Python
-- Automação de tarefas
+- Automação
 - Scripts utilitários
-- Prototipagem rápida
-- Estudos e lógica
+- Prototipagem
+- Estudos
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-### 📈 Estatísticas gerais
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafasoliv-linux&show_icons=true&theme=dark&hide_border=true)
 
-### 🔥 Commits consecutivos
 ![GitHub Streak](https://streak-stats.demolab.com?user=rafasoliv-linux&theme=dark&hide_border=true)
 
-### 📅 Atividade (dia / semana / mês)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafasoliv-linux&theme=github-compact)
 
 ---
 
-## 🚀 Projetos em destaque
+## 📌 Repositórios em destaque
 
 ### 🦀 Rust
-- **Secure CLI Tool**  
-  Ferramenta de linha de comando focada em segurança e performance.
 
-- **REST API em Rust**  
-  API back-end com foco em concorrência e organização de código.
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=slown&theme=dark)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=OUTRO_REPO_RUST&theme=dark)
 
 ### 🐍 Python
-- **Automação de Tarefas**  
-  Scripts para otimizar rotinas e fluxos repetitivos.
 
-- **Utilitários e Experimentos**  
-  Projetos pequenos voltados para aprendizado e produtividade.
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=NOME_DO_REPO_PYTHON&theme=dark)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafasoliv-linux&repo=OUTRO_REPO_PYTHON&theme=dark)
 
 ---
 
-## 📂 O que você vai encontrar aqui
+## 📂 O que tem aqui
 
 - Projetos pessoais
 - Estudos práticos
-- Experimentos com Rust e Python
+- Experimentos
 - Ideias em desenvolvimento
 
 ---
 
 ## 📈 Objetivo
 
-Construir projetos sólidos, entender como as coisas funcionam por baixo dos panos e evoluir como desenvolvedor a cada repositório.
+Criar projetos sólidos, entender sistemas a fundo e evoluir como desenvolvedor a cada repositório.
 
 ---
 
@@ -82,4 +77,4 @@ Construir projetos sólidos, entender como as coisas funcionam por baixo dos pan
 
 ---
 
-⭐ Se algum projeto te ajudar, considere deixar uma estrela!
+⭐ Curtiu algum projeto? Deixa uma estrela.
